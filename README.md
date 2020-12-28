@@ -1,6 +1,5 @@
 Send Email With CI 4 & SMTP Gmail<br>
-Demo <br><br>
-![Demo Send Email](https://user-images.githubusercontent.com/32492696/103190208-88464180-4902-11eb-87a9-0a5ba060ce3f.gif)
+<a href="https://s8.gifyu.com/images/Demo-Send-Email.gif" target="_blank">Live Demo</a><br><br>
 Langkah Pertama aktifkan terlebih dahulu Server SMTP Google dengan cara klik link dibawah ini https://www.google.com/settings/u/2/security/lesssecureapps <br>
 Kemudian pada izinkan aplikasi yang kurang aman silahkan kalian pilih aktif <br><br>
 ![step](https://user-images.githubusercontent.com/32492696/103190070-fa6a5680-4901-11eb-8209-320ec4cc87e4.PNG) <br>
